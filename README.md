@@ -7,7 +7,7 @@
 | 工具实战脚本           | SQL 脚本 + Python 自动化脚本 | 数据提数/报表自动化       |
 
 
-## 核心项目展示（示例）
+## 核心项目展示
 ### 项目1：电商平台用户留存率分析与优化建议
 - **工具**：SQL（数据提取） + Tableau（可视化） + Excel（漏斗拆解）
 - **业务背景**：某电商平台30日留存率环比下降8%，需定位流失原因并给出解决方案
@@ -45,7 +45,7 @@
 -  基础知识：https://dcnztfpjoqz6.feishu.cn/wiki/XRGbwQD3NiLNwHk8mOkcWBQKnk0?from=from_copylink
 -  题型积累：https://dcnztfpjoqz6.feishu.cn/docx/BEMYdplCRoVVGnxtCEycimN5nTd?from=from_copylink
 ## 数据分析方法论
-- https://dcnztfpjoqz6.feishu.cn/wiki/YvJ8wPtnhiV0uVkaEvkcWcqVngd?from=from_copylink
+- 方法论（部分）：https://dcnztfpjoqz6.feishu.cn/wiki/YvJ8wPtnhiV0uVkaEvkcWcqVngd?from=from_copylink
 ## 机器学习
 - 数据处理：https://dcnztfpjoqz6.feishu.cn/wiki/WmSrwqUzaixRDCks3HEc5b3wnth?from=from_copylink
 - 机器学习模型：https://dcnztfpjoqz6.feishu.cn/wiki/X6ZswhtLxiOQV0k2mkLcaEzGnUf?from=from_copylink
