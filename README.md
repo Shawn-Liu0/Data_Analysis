@@ -1,10 +1,3 @@
-# 数据分析作品集 | Data Analysis Portfolio
-> 专注于**互联网/电商/用户增长**领域的数据分析实战项目，覆盖数据清洗、可视化、业务分析、建模等全流程能力
-
-## 关于我
-数据分析师求职者，熟练使用SQL/Python/Tableau/Excel等工具，擅长通过数据解决**用户留存、转化提升**等业务问题，具备从“数据洞察→策略建议→效果验证”的闭环分析能力。
-
-
 ## 项目分类
 | 项目类型               | 技术工具                  | 业务方向                  |
 |------------------------|---------------------------|---------------------------|
@@ -40,9 +33,28 @@
 - **其他**：Git版本管理、Markdown文档撰写
 
 
-## 联系我
+# 联系我
 - 邮箱：18225564841@163.com
-- 简历：
+
+# 扩展：技能、理论学习资料（飞书链接）
+## 概率论
+- 基础知识：https://dcnztfpjoqz6.feishu.cn/wiki/JJlxwJOMKiuMjxkZlbUchKAZnpe?from=from_copylink
+## Python
+- 基础知识：https://dcnztfpjoqz6.feishu.cn/wiki/R51cwd5lSirG1Dkk4ihctgW6nkg?from=from_copylink
+## SQL
+-  基础知识：https://dcnztfpjoqz6.feishu.cn/wiki/XRGbwQD3NiLNwHk8mOkcWBQKnk0?from=from_copylink
+-  题型积累：https://dcnztfpjoqz6.feishu.cn/docx/BEMYdplCRoVVGnxtCEycimN5nTd?from=from_copylink
+## 数据分析方法论
+- https://dcnztfpjoqz6.feishu.cn/wiki/YvJ8wPtnhiV0uVkaEvkcWcqVngd?from=from_copylink
+## 机器学习
+- 数据处理：https://dcnztfpjoqz6.feishu.cn/wiki/WmSrwqUzaixRDCks3HEc5b3wnth?from=from_copylink
+- 机器学习模型：https://dcnztfpjoqz6.feishu.cn/wiki/X6ZswhtLxiOQV0k2mkLcaEzGnUf?from=from_copylink
+- 模型评估与优化：https://dcnztfpjoqz6.feishu.cn/wiki/VUzhwn1zQiE7kkkCz7kcH16ZnCw?from=from_copylink
+- 模型可解释性评估：https://dcnztfpjoqz6.feishu.cn/wiki/IvIxwSmFJih6trk0DJycylN9nff?from=from_copylink
 
 
-> 注：仓库持续更新中，后续会新增更多行业的数据分析项目
+注：
+- 本仓库是我系统化学习数据分析技能的成长轨迹记录，汇总了从基础工具实操到业务场景模拟的全流程实战项目；
+- 本仓库中尚有未完善的内容，在后续的学习中会尽力补全；
+- 若需获取仓库内相关学习资料或项目细节，欢迎通过邮箱联系我。能以所学为您提供微小帮助，我将倍感荣幸～
+
